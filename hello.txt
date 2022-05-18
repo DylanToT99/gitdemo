@@ -7,5 +7,6 @@ hello Dylan!
 hello Dylan!
 hello Dylan!
 hello Dylan!
+<<<<<<< HEAD
 hello Dylan!from master change
-hello Dylan!
+hello Dylan!change from hot-fix
